@@ -2,9 +2,7 @@
 
 <ul>
 <li> 📚 Software engineering student at Faculty of Information technologies
-<li> 📌 2022 Goals: Improve my skills
 
- <li>💬 Ask me about anything
  </ul>
 <ul>
 
