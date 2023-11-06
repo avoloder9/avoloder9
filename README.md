@@ -4,7 +4,7 @@
 <li> 📚 Software engineering student at Faculty of Information technologies
 <li> 💬 Ask me about anything </li>
  <li>📌 2023 Goals: improve my skills</li>
- <li>🌱 I’m currently learning React</li>
+ <li>🌱 I’m currently learning Angular</li>
   </ul>
 
 <b>Languages and Tools:
