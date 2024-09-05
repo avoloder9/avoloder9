@@ -4,10 +4,9 @@
 <li> 📚 Software engineering student at Faculty of Information technologies
 <li> 💬 Ask me about anything </li>
  <li>📌 2024 Goals: improve my skills</li>
- <li>🌱 I’m currently learning Angular</li>
+ <li>🌱 I’m currently learning Flutter and Dart</li>
   </ul>
-![](https://komarev.com/ghpvc/?username=avoloder9)
-<br><br>
+
 <b>Languages and Tools:
 </b>
 <br>
