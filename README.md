@@ -6,7 +6,8 @@
  <li>📌 2024 Goals: improve my skills</li>
  <li>🌱 I’m currently learning Angular</li>
   </ul>
-
+![](https://komarev.com/ghpvc/?username=avoloder9)
+<br><br>
 <b>Languages and Tools:
 </b>
 <br>
